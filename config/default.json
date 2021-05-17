@@ -1,0 +1,3 @@
+{
+    "mongoURI" : "mongodb+srv://jaypatel:jaypatel@cluster0.lfydm.mongodb.net/demo_chat_application_database?retryWrites=true&w=majority"
+}
